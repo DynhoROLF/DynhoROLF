@@ -9,4 +9,4 @@ Enthusiast of the best web & mobile development technologies.
 
 Passionate about Technology and changing people's lives through programming.
 
-"Nothing in this world beats good old persistence. Talent does not surpass (Cr7). Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses, wasted talents, undescovered habilities is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+"Nothing in this world beats good old persistence. Talent does not surpass (Cr7). Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses, wasted talents, undiscovered habilities is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
